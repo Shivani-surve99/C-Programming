@@ -10,15 +10,16 @@ int main()
 
     if(Year % 4 == 0)
     {
-        printf("\n Given Year %d is Leap Year",Year);
+        printf("\n Year %d is Leap Year.",Year);
     }
     else
     {
-        printf("\n Given Year %d is Not Leap Year",Year);
+        printf("\n Year %d is Not Leap Year.",Year);
     }
 
-    printf("\n\n Thank You, Have a Great Year \n");
+    printf("\n\n Thank You, Have a Great Year. \n");
 
     getch();
     return 0;
 }
+
