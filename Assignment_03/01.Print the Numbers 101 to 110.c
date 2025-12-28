@@ -3,7 +3,7 @@
 
 int main()
 {
-    int No = 101;
+    int No = 0;
 
     printf("\n Print The Numbers From 101 to 110 ");
 
@@ -17,3 +17,4 @@ int main()
     getch();
     return 0;
 }
+
